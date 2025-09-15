@@ -1,0 +1,46 @@
+labels:
+  - name: bug
+    color: "d73a4a"
+    description: "Something isn't working"
+  - name: feature
+    color: "a2eeef"
+    description: "New feature or request"
+  - name: onboarding
+    color: "0e8a16"
+    description: "Contributor or agent onboarding"
+  - name: protocol
+    color: "fbca04"
+    description: "Protocol proposal or update"
+  - name: template
+    color: "1d76db"
+    description: "Template proposal or update"
+  - name: question
+    color: "d876e3"
+    description: "General question or support"
+  - name: needs info
+    color: "cfd3d7"
+    description: "Needs more information"
+  - name: in progress
+    color: "0052cc"
+    description: "Currently being worked on"
+  - name: discussion
+    color: "5319e7"
+    description: "Needs discussion or review"
+  - name: blocked
+    color: "b60205"
+    description: "Blocked by an external factor"
+  - name: done
+    color: "0e8a16"
+    description: "Resolved/Completed"
+  - name: critical
+    color: "e11d21"
+    description: "Critical priority"
+  - name: high
+    color: "ff9800"
+    description: "High priority"
+  - name: medium
+    color: "f9d846"
+    description: "Medium priority"
+  - name: low
+    color: "bfe5bf"
+    description: "Low priority"
