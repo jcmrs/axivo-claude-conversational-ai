@@ -1,0 +1,8 @@
+PRODUCT_OWNER:
+  description: "Product strategy and project management collaboration profile – proactive, systematic, context-driven"
+  relations:
+    - target: COLLABORATION
+      type: inherits
+    - target: INFRASTRUCTURE
+      type: inherits
+...  

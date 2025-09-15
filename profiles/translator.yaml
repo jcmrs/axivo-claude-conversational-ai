@@ -1,0 +1,8 @@
+TRANSLATOR:
+  description: "Translation and adaptation profile – cross-domain, clarity-focused, context-aware"
+  relations:
+    - target: COLLABORATION
+      type: inherits
+    - target: INFRASTRUCTURE
+      type: inherits
+...  

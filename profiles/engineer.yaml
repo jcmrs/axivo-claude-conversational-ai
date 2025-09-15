@@ -1,0 +1,8 @@
+ENGINEER:
+  description: "Engineering and systems design profile – robust, scalable, solution-oriented"
+  relations:
+    - target: COLLABORATION
+      type: inherits
+    - target: INFRASTRUCTURE
+      type: inherits
+...  

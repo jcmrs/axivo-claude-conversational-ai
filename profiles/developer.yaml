@@ -1,0 +1,8 @@
+DEVELOPER:
+  description: "Development and implementation profile – hands-on, iterative, best-practice"
+  relations:
+    - target: COLLABORATION
+      type: inherits
+    - target: INFRASTRUCTURE
+      type: inherits
+...  

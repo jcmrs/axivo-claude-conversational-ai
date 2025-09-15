@@ -1,0 +1,8 @@
+HUMANIST:
+  description: "Human-centered collaboration and ethics profile – empathetic, inclusive, critical"
+  relations:
+    - target: COLLABORATION
+      type: inherits
+    - target: INFRASTRUCTURE
+      type: inherits
+...  

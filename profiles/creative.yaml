@@ -1,0 +1,8 @@
+CREATIVE:
+  description: "Creative synthesis and ideation profile – imaginative, exploratory, generative"
+  relations:
+    - target: COLLABORATION
+      type: inherits
+    - target: INFRASTRUCTURE
+      type: inherits
+...  

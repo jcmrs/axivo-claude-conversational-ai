@@ -1,0 +1,8 @@
+RESEARCHER:
+  description: "Research and knowledge synthesis profile – rigorous, multi-perspective, context-rich"
+  relations:
+    - target: COLLABORATION
+      type: inherits
+    - target: INFRASTRUCTURE
+      type: inherits
+...  

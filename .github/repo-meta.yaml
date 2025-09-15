@@ -1,0 +1,16 @@
+name: axivo-claude-conversational-ai
+description: |
+  Collaborative, extensible repository for AXIVO-style domain profiles, protocols, and templates enabling autonomous, proactive conversational AI agents. Includes onboarding, logging, and role-switching mechanisms for agents aligned with SRE, behavioral psychology, and product management methodologies (idea → spec → project).
+  The core mission: Enable an AI agent or Domain Profile to act as an autonomous, conversational, methodology-driven product owner—capable of turning human ideas into actionable project management, engineering, and development routines, by actively engaging the user, translating ideas into professional methodologies, and generating specifications, workflows, and artifacts.
+homepage: https://github.com/jcmrs/axivo-claude-conversational-ai
+topics:
+  - axivo
+  - conversational-ai
+  - domain-profile
+  - protocol
+  - onboarding
+  - logging
+  - role-switching
+  - SRE
+  - behavioral-psychology
+  - product-management
